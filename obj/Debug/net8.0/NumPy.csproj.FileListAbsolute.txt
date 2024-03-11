@@ -1,0 +1,14 @@
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\bin\Debug\net8.0\NumPy.exe
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\bin\Debug\net8.0\NumPy.deps.json
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\bin\Debug\net8.0\NumPy.runtimeconfig.json
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\bin\Debug\net8.0\NumPy.dll
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\bin\Debug\net8.0\NumPy.pdb
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.dll
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\refint\NumPy.dll
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.pdb
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\NumPy.genruntimeconfig.cache
+C:\Users\krust\OneDrive\Bureau\C#\NumPy\obj\Debug\net8.0\ref\NumPy.dll
